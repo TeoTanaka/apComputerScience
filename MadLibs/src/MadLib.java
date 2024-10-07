@@ -27,4 +27,8 @@ public class MadLib {//project 1.2.10
         System.out.println("Enter a "+inputType+": ");
         return sc.nextLine();
     }
+
+
+
+
 }
