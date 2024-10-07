@@ -1,0 +1,21 @@
+INITIAL IDEA
+ we break down the story into two parts
+    First chunk - replaced word - Second Chunk
+
+    set the main story to the above string combined
+
+    then repeat the process (with a while loop) until there are no more replaceable words
+
+
+TIMETABLE
+    5 minuets to plan
+    5 minuets to make the loop
+    5 minuets to redo any mistakes
+    ACTUAL
+    5 minuets to plan
+    3 minuets to make the proj
+    0 minuets to redo any mistakes
+
+    DESCRIPTION OF THE PROJECT:
+
+    is to enter a story with replaceable words in < > replace them and print the result to the screen
