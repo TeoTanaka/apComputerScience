@@ -4,10 +4,13 @@ import java.util.Scanner;
 public class MadLib {//project 1.2.10
     public static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-        String story;
-        // story = "I went to the animal <noun>, the <plural_noun> and the <number> beasts were there.";
-//        story = "Once upon a time in a <adjective> land, a <noun> <adverb> grew";
-      story = "Once upon a time there was a kid named <adjective> <noun> who programmed <adverb>";
+
+        //select your story here
+            String story;
+            // story = "I went to the animal <noun>, the <plural_noun> and the <number> beasts were there.";
+        //story = "Once upon a time in a <adjective> land, a <noun> <adverb> grew";
+        story = "Once upon a time there was a kid named <adjective> <noun> who programmed <adverb>";
+        //this is the while loop
         while (story.contains("<") && story.contains(">")) {
             //finding the opening and closing brackets
             int bracket1 = story.indexOf("<");
@@ -21,9 +24,12 @@ public class MadLib {//project 1.2.10
             story = storyPiece1+userInput+storyPiece2;
 
         }
+        //printing the story
         System.out.println("Here's your completed story:");
         System.out.println(story);
     }
+
+    //method for getting input
     public static String getInput(String inputType){
         System.out.println("Enter a "+inputType+": ");
         return sc.nextLine();
