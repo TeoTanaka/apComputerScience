@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FivePlanets/FivePlanets.iml" filepath="$PROJECT_DIR$/FivePlanets/FivePlanets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MadLibs/MadLibs.iml" filepath="$PROJECT_DIR$/MadLibs/MadLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberRiddle/NumberRiddle.iml" filepath="$PROJECT_DIR$/NumberRiddle/NumberRiddle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem1_2_6/Problem1_2_6.iml" filepath="$PROJECT_DIR$/Problem1_2_6/Problem1_2_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apComputerScience.iml" filepath="$PROJECT_DIR$/apComputerScience.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem1.2.8/problem1.2.8.iml" filepath="$PROJECT_DIR$/problem1.2.8/problem1.2.8.iml" />
+    </modules>
+  </component>
+</project>
